@@ -1,4 +1,4 @@
-# MyApp - Mobile Product Management Application
+# AndroidApp - Mobile Product Management Application
 
 A full-stack mobile application built with **Kotlin** for Android and **Node.js** for the backend, featuring real-time product management with offline-first capabilities.
 
